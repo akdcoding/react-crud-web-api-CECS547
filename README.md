@@ -7,7 +7,7 @@ React Tutorial Application in that:
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
 
-![react-crud-example-web-api-demo](react-crud-example-web-api-demo.png)
+
 
 For instruction, please visit:
 > [React CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/)
